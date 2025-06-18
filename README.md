@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Termite 🐜
 
 Welcome to **Termite**, your comprehensive guide and toolkit for understanding cybersecurity concepts, defense strategies, and ethical hacking techniques. Whether you're a student, IT professional, or cybersecurity enthusiast, Termite provides clear, concise, and practical insights to help you navigate the digital security landscape.
@@ -87,3 +88,7 @@ For questions or feedback, reach out at: matrixleons@gmail.com
 ---
 
 **Thank you for choosing Termite. Enjoy your cybersecurity journey!** 🚀🔥
+=======
+# Termite
+AI-powered cybersecurity assistant with categorized knowledge base for hacking, defense, and malware  knowledge 
+>>>>>>> 3cb3d23a0679846a127ba24967086c3b0bdba46c
