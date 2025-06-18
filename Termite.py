@@ -3181,7 +3181,7 @@ ___________                  .__  __
 
 
 # GitHub  : https://github.com/matrixleons
-# LinkedIn: https://www.linkedin.com/in/matrixleons
+# LinkedIn: matrixleons (on LinkedIn)
 # Email   : matrixleons@gmail.com
 """
         print(banner)
