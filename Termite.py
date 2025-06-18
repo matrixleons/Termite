@@ -3179,9 +3179,10 @@ ___________                  .__  __
   |____| \\___  >__|  |__|_|  /__||__|  \\___  >
              \\/            \\/              \\/  
 
-# GitHub : https://github.com/matrixleons
-# X (Twitter): https://x.com/matrixleons
-# Email  : matrixleons@gmail.com
+
+# GitHub  : https://github.com/matrixleons
+# LinkedIn: https://www.linkedin.com/in/matrixleons
+# Email   : matrixleons@gmail.com
 """
         print(banner)
 
