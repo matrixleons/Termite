@@ -3179,7 +3179,7 @@ ___________                  .__  __
   |____| \\___  >__|  |__|_|  /__||__|  \\___  >
              \\/            \\/              \\/  
 
-# GitHub: https://github.com/matrixleons  # <-- Change this to your current GitHub URL
+# GitHub: https://github.com/matrixleons 
 """
         print(banner)
 
