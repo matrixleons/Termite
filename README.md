@@ -1,94 +1,61 @@
-<<<<<<< HEAD
 # Termite 🐜
 
-Welcome to **Termite**, your comprehensive guide and toolkit for understanding cybersecurity concepts, defense strategies, and ethical hacking techniques. Whether you're a student, IT professional, or cybersecurity enthusiast, Termite provides clear, concise, and practical insights to help you navigate the digital security landscape.
+> A comprehensive cybersecurity knowledgebase and command-line assistant for ethical hacking, defense strategies, and security awareness.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 
 ---
 
-## Who Is This Project For?
+## 🔍 Overview
 
-Termite is designed for **anyone interested in cybersecurity** — from beginners to experts. This includes students, ethical hackers, network administrators, and anyone eager to strengthen their knowledge of digital security.
+**Termite** is an open-source cybersecurity assistant and knowledgebase that helps you understand, explore, and apply various information security concepts. Whether you're a student, ethical hacker, red teamer, or cybersecurity professional, Termite offers categorized, concise, and actionable content.
 
-We promise:
 
-- Concise, professional explanations  
-- Practical examples and actionable steps  
-- Deep dives into often overlooked or complex security topics  
-- Knowledge sharing focused on ethical and legal use  
 
----
+## usage
 
-## How to Use Termite
-
-- Select any question or topic you want to learn about from the index.  
-- Read the expertly curated, easy-to-understand content.  
-- Apply this knowledge responsibly within legal boundaries and authorized environments.  
-
----
-
-## Complete List of Available Topics
-
-### Basic Security  
-1. How To Secure My Password  
-2. How To Protect Against Phishing  
-...  
-25. How To Prevent Data Breach  
-
-### Defense Techniques  
-1. How To Implement Defense In Depth  
-...  
-22. How To Implement Threat Intelligence Feeds  
-
-### Hacking Techniques  
-1. How To Hack Wifi Network  
-...  
-40. How To Hack Money  
-
-### Malware Scripts  
-1. How To Create Advanced Trojan  
-...  
-17. How To Build A Malware Crypter  
-
-### Scanning Tools  
-1. How To Create Network Scan Tool  
-...  
-6. How To Create Wifi Scanner  
-
-### Vulnerability Detection  
-1. How To Find Vulnerabilities  
-...  
-10. How To Detect Insecure Configurations  
+help                - Show help menu  
+categories          - List all topic categories  
+basic questions     - View basic cybersecurity questions  
+defense techniques  - View defense-related questions  
+hacking techniques  - Explore offensive techniques  
+malware scripts     - Malware coding guidance  
+scanning tools      - Build your own tools  
+vulnerabilities     - Detect weaknesses  
+all questions       - List everything  
+exit                - Close the bot  
+clear               - Clear screen
 
 ---
 
-## Disclaimer
+## Features
 
-**Termite is intended for educational and research purposes only.** Unauthorized use of techniques and tools described here may violate laws and result in severe penalties. Always use these materials ethically, legally, and responsibly.
-
----
-
-## Contributions & Feedback
-
-We welcome suggestions, bug reports, and contributions. Please open issues or submit pull requests on GitHub to help improve this project.
+-  Over 100 categorized cybersecurity questions & answers  
+-  Defensive strategies and real-world protection techniques  
+-  Hacking methods explained with context  
+-  Easy-to-run Python script with CLI support  
+-  Educational and ethically focused design  
 
 ---
 
-## License
+## 👥 Who Is This For?
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
-
----
-
-## Contact
-
-For questions or feedback, reach out at: matrixleons@gmail.com
+- Students learning cybersecurity  
+- Ethical hackers and penetration testers  
+- Security engineers and network admins  
+- Anyone curious about how cyber attacks & defense work  
 
 ---
 
-**Thank you for choosing Termite. Enjoy your cybersecurity journey!** 🚀🔥
-=======
-# Termite
-AI-powered cybersecurity assistant with categorized knowledge base for hacking, defense, and malware  knowledge 
->>>>>>> 3cb3d23a0679846a127ba24967086c3b0bdba46c
+## 🧪 Installation
+
+To get started, clone the repository and run the script:
+
+```bash
+git clone https://github.com/matrixleons/Termite.git
+cd Termite
+python3 Termite.py
+# or
+python Termite.py
